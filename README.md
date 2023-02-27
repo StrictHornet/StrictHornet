@@ -1,2 +1,2 @@
 # StrictHornet
-StartNG GIT Task 1
+StartNG GIT Task
